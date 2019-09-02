@@ -1,9 +1,10 @@
 # KU Cafe
 
-## Menu
+[Menu](menu)
 
-nothing yet
+## About Us
 
----
-We accept PromptPay, KU Pay, Alipay, and cash. No credit cards.    
-[About Us](about)
+| Name   | Role  | Github   |
+|--------|-------|----------|
+| Fatalai Jon | Team Lead, breakfast menu | @fatalaijon |
+| Jim Brucker | lunch menu | @jbrucker |
